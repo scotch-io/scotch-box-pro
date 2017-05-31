@@ -10,7 +10,7 @@ Scotch Box is a pre-configured Vagrant Box with a full array of features to get 
 
 ## License Required?
 
-This is a paid version of the original Scotch Box. [Go Pro Now!](https://box.scotch.io/pro)
+This is a paid version of the original Scotch Box. [Go Pro Now!](https://box.scotch.io/pro) to get access to documentation and new tutorials!
 
 
 ## Pro Features
