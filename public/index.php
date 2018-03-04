@@ -371,11 +371,11 @@ main {
                     <div class="row">
                         <div class="col-md-10 col-md-offset-1">
                             <h1>
-                                😎
+                                🤩 🚀 😎 🐕
                                 <br>
                                 Welcome to Scotch Box Pro
                             </h1>
-                            <p>Pro Version 1.0 ❤️</p>
+                            <p>Pro Version 1.5 ❤️</p>
                         </div>
                     </div>
                 </div>
@@ -417,7 +417,7 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>OS</strong></td>
-                                    <td>Ubuntu 16.04 LTS (Xenial Xerus)</td>
+                                    <td>Ubuntu 17.01 (Artful Aardvark)</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -427,17 +427,17 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>PHP</strong></td>
-                                    <td>7.0.15</td>
+                                    <td>7.2.2</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Python</strong></td>
-                                    <td>2.7</td>
+                                    <td>2.7.4</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Node.js</strong></td>
-                                    <td>6.10.3 (via NVM!)</td>
+                                    <td>8.9.4 (via NVM!)</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -449,12 +449,12 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>Ruby</strong></td>
-                                    <td>2.4 (via RVM!)</td>
+                                    <td>2.5 (via RVM!)</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Vim</strong></td>
-                                    <td>7.4</td>
+                                    <td>8.0</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -464,12 +464,12 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>Imagemagick</strong></td>
-                                    <td>6.8.9</td>
+                                    <td>6.9</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Curl</strong></td>
-                                    <td>7.47</td>
+                                    <td>7.55</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -515,7 +515,7 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>PHP</strong></td>
-                                    <td>7.0.15</td>
+                                    <td>7.2.2</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -758,7 +758,7 @@ main {
                             <table class="table table-responsive table-striped table-hover">
                                 <tr>
                                     <th colspan="3">
-                                        <h3>PostgreSQL 9.5.6</h3>
+                                        <h3>PostgreSQL 9.6.7</h3>
                                     </th>
                                 </tr>
                                 <tr>
@@ -809,7 +809,7 @@ main {
                             <table class="table table-responsive table-striped table-hover">
                                 <tr>
                                     <th colspan="3">
-                                        <h3>MongoDB 2.6.10</h3>
+                                        <h3>MongoDB 3.2.19</h3>
                                     </th>
                                 </tr>
                                 <tr>
@@ -993,7 +993,7 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>Node.js</strong></td>
-                                    <td>6.10.3</td>
+                                    <td>8.9.43</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
@@ -1003,12 +1003,12 @@ main {
                                 </tr>
                                 <tr>
                                     <td><strong>NPM</strong></td>
-                                    <td>3.10.10</td>
+                                    <td>5.6.0</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Yarn</strong></td>
-                                    <td>0.24.5</td>
+                                    <td>1.5.1</td>
                                     <td>✅</td>
                                 </tr>
                                 <tr>
