@@ -351,6 +351,10 @@ main {
 
                         </ul>
                     </li>
+                    
+                    <li>
+                        <a href="https://wpdistillery.org" target="_blank" role="button" aria-expanded="false"><i class="fa fa-wordpress"></i> WPDistillery</a>
+                    </li>
 
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
@@ -360,7 +364,7 @@ main {
     "><img src="https://scotch.io/img/icons/gold/favicon-96x96.png" style="max-width: 25px;position: absolute;left: -15px;top: 11px;"> Scotch.io</a>
                     </li>
 
-                    <li class="active"><a href="/pro">Go Pro</a></li>
+                    <li class="active"><a href="https://box.scotch.io/pro">Go Pro</a></li>
                 </ul>
             </div>
         </div>
